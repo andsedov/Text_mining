@@ -1,3 +1,3 @@
 # Text_mining
 
-This repository contains code on texts analysis
+This repository contains code on text analysis
